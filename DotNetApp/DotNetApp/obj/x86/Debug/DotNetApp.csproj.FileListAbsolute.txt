@@ -1,0 +1,15 @@
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\bin\Debug\DotNetApp.exe
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\bin\Debug\DotNetApp.pdb
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\DotNetApp.Form1.resources
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\DotNetApp.Properties.Resources.resources
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\DotNetApp.exe
+c:\users\aiharo\documents\visual studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\DotNetApp.pdb
+C:\Users\Aiharo\Documents\Visual Studio 2010\Projects\DotNetApp\DotNetApp\bin\Debug\DotNetApp.exe.config
+C:\Users\Aiharo\Documents\Visual Studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Aiharo\Documents\Visual Studio 2010\Projects\DotNetApp\DotNetApp\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Aiharo\Documents\GraphicsWorks\DotNetApp\DotNetApp\bin\Debug\DotNetApp.exe.config
+C:\Users\Aiharo\Documents\GraphicsWorks\DotNetApp\DotNetApp\obj\x86\Debug\DotNetApp.exe
+C:\Users\Aiharo\Documents\GraphicsWorks\DotNetApp\DotNetApp\obj\x86\Debug\DotNetApp.pdb
